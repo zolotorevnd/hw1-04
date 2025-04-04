@@ -54,4 +54,6 @@ kill 7730
 
 <img src = "img/htop_time.png" width = 100%>
 
+### Задание 3
 
+<img src = "img/ip_addr.png" width = 100%>
