@@ -34,24 +34,24 @@
 ### Задание 1
 
 nano
-<img src = "img/nano" width = 100%>
+<img src = "img/nano.png" width = 100%>
 
 ps -aux
-<img src = "img/ps_aux" width = 100%>
+<img src = "img/ps_aux.png" width = 100%>
 
 kill 7730
-<img src = "img/kill" width = 100%>
+<img src = "img/kill.png" width = 100%>
 
 Командой "kill 7730" мы "убили" запущенный процесс nano и редактор nano принудительно завершил свою работу в соседнем окне терминала.
 
-<img src = "img/kill" width = 100%>
+<img src = "img/kill.png" width = 100%>
 
 ### Задание 2
 
-<img src = "img/htop_install" width = 100%>
+<img src = "img/htop_install.png" width = 100%>
 
-<img src = "img/htop_mem" width = 100%>
+<img src = "img/htop_mem.png" width = 100%>
 
-<img src = "img/htop_time" width = 100%>
+<img src = "img/htop_time.png" width = 100%>
 
 
