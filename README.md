@@ -57,3 +57,7 @@ kill 7730
 ### Задание 3
 
 <img src = "img/ip_addr.png" width = 100%>
+
+<img src = "img/nmcli_ip.png" width = 100%>
+
+<img src = "img/nmcli_dns.png" width = 100%>
